@@ -1,0 +1,14 @@
+.about-container {
+    background-image: url(../../assets/liet.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 88.5vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 10px;
+}
+
+.about-title {
+    margin: 0px;
+}
